@@ -101,3 +101,6 @@ Delivered business-ready dashboards
 Improved understanding of customer behavior and sales performance
 
 Demonstrated practical application of CRM analytics for decision-making
+
+🔗 Project Links
+🐙 GitHub Repository: https://github.com/pillidharani27-alt/CRM-Analytics 
