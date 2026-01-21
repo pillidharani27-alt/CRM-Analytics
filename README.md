@@ -37,6 +37,7 @@ Data was cleaned and structured before analysis.
 
 📊 Microsoft Excel – Data cleaning, analysis, pivot tables
 ![image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/Excel%20Opportunnity%20Dashboard.png?raw=true)
+![image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/Excel%20Lead%20Dashboard.png?raw=true)
 
 🗄 SQL – Querying and aggregating CRM data
 
