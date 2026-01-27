@@ -43,6 +43,7 @@ Data was cleaned and structured before analysis.
 
 📈 Power BI – Interactive dashboards & visualizations
 ![image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/PowerBI%20Opportunity.png?raw=true)
+![image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/PowerBI%20Lead.png?raw=true)
 
 🐙 GitHub – Version control and project documentation
 
