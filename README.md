@@ -42,6 +42,7 @@ Data was cleaned and structured before analysis.
 🗄 SQL – Querying and aggregating CRM data
 
 📈 Power BI – Interactive dashboards & visualizations
+![image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/PowerBI%20Opportunity.png?raw=true)
 
 🐙 GitHub – Version control and project documentation
 
