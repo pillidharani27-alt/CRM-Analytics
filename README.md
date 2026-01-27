@@ -47,7 +47,7 @@ Data was cleaned and structured before analysis.
 
 📈 Tableau -Interactive Dashboard & Visualizations
 ![image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/Tableau%20Opportunity.png?raw=true)
-![Image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/Tableau%20Opportunity.png?raw=true)
+![Image alt](https://github.com/pillidharani27-alt/CRM-Analytics/blob/main/Screen%20Shots/Tableau%20Lead.png?raw=true)
 
 🐙 GitHub – Version control and project documentation
 
